@@ -1,5 +1,5 @@
 /**
- * @author       Dima Rudenko <dimchik.ru@gmail.com>
+ * @author       Dima Rudenko
  */
 (function() {
     "use strict";
